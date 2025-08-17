@@ -1,0 +1,125 @@
+[
+  {
+    "name": "Wireless Bluetooth Headphones",
+    "price": "2999",
+    "description": "High-quality wireless headphones with noise cancellation.",
+    "ratings": "4.5",
+    "images": [
+      { "image": "https://example.com/images/headphones1.jpg" },
+      { "image": "https://example.com/images/headphones2.jpg" }
+    ],
+    "category": "Electronics",
+    "seller": "TechStore",
+    "stock": "120"
+  },
+  {
+    "name": "Smartphone XYZ Pro",
+    "price": "45999",
+    "description": "Latest generation smartphone with AMOLED display and 5G support.",
+    "ratings": "4.7",
+    "images": [
+      { "image": "https://example.com/images/phone1.jpg" },
+      { "image": "https://example.com/images/phone2.jpg" }
+    ],
+    "category": "Mobiles",
+    "seller": "MobileWorld",
+    "stock": "80"
+  },
+  {
+    "name": "Gaming Laptop G15",
+    "price": "85999",
+    "description": "Powerful gaming laptop with RTX graphics and i7 processor.",
+    "ratings": "4.6",
+    "images": [
+      { "image": "https://example.com/images/laptop1.jpg" }
+    ],
+    "category": "Computers",
+    "seller": "GamerZone",
+    "stock": "45"
+  },
+  {
+    "name": "4K Ultra HD Smart TV",
+    "price": "59999",
+    "description": "55-inch 4K UHD smart TV with built-in apps.",
+    "ratings": "4.4",
+    "images": [
+      { "image": "https://example.com/images/tv1.jpg" },
+      { "image": "https://example.com/images/tv2.jpg" }
+    ],
+    "category": "Electronics",
+    "seller": "HomeAppliances",
+    "stock": "30"
+  },
+  {
+    "name": "Fitness Smartwatch",
+    "price": "4999",
+    "description": "Waterproof smartwatch with heart-rate monitoring and GPS.",
+    "ratings": "4.3",
+    "images": [
+      { "image": "https://example.com/images/watch1.jpg" }
+    ],
+    "category": "Wearables",
+    "seller": "FitTech",
+    "stock": "200"
+  },
+  {
+    "name": "DSLR Camera Canon 1500D",
+    "price": "38999",
+    "description": "24.1 MP DSLR camera with Wi-Fi and Full HD video recording.",
+    "ratings": "4.8",
+    "images": [
+      { "image": "https://example.com/images/camera1.jpg" }
+    ],
+    "category": "Cameras",
+    "seller": "PhotoWorld",
+    "stock": "25"
+  },
+  {
+    "name": "Office Chair Ergonomic",
+    "price": "7999",
+    "description": "Ergonomic chair with lumbar support and adjustable height.",
+    "ratings": "4.2",
+    "images": [
+      { "image": "https://example.com/images/chair1.jpg" }
+    ],
+    "category": "Furniture",
+    "seller": "FurniHouse",
+    "stock": "150"
+  },
+  {
+    "name": "Microwave Oven 20L",
+    "price": "6999",
+    "description": "20-liter microwave oven with auto-cook menu.",
+    "ratings": "4.1",
+    "images": [
+      { "image": "https://example.com/images/microwave1.jpg" }
+    ],
+    "category": "Appliances",
+    "seller": "KitchenMart",
+    "stock": "65"
+  },
+  {
+    "name": "Sports Running Shoes",
+    "price": "2999",
+    "description": "Lightweight running shoes with breathable mesh design.",
+    "ratings": "4.0",
+    "images": [
+      { "image": "https://example.com/images/shoes1.jpg" }
+    ],
+    "category": "Footwear",
+    "seller": "SportyShop",
+    "stock": "300"
+  },
+  {
+    "name": "Backpack Travel Bag",
+    "price": "2499",
+    "description": "Durable travel backpack with multiple compartments.",
+    "ratings": "4.5",
+    "images": [
+      { "image": "https://example.com/images/bag1.jpg" }
+    ],
+    "category": "Bags",
+    "seller": "BagStore",
+    "stock": "180"
+  }
+]
